@@ -51,6 +51,10 @@ body {
     padding-top: 15px;
 }
 
+.keterangan h2{
+  color: rgb(41, 40, 40);
+}
+
 .row{
     margin: 20px;
     text-align: center;
